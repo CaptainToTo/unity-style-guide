@@ -1,4 +1,4 @@
-# ATUMEMOT's Unity Coding Guide
+# ATUMEMOT's Unity Style Guide
 
 This is the coding guide that I use for my Unity games. It describes syntactic, structural, and 
 process rules for writing code. I formed many of these rules based on my experience to avoid 
