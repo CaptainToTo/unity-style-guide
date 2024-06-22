@@ -111,8 +111,6 @@ All names will be in either <span style="color:green">camelCase</span> or <span 
 - Properties with implemented get/set : <span style="color:yellow">PascalCase</span>
 - Methods : <span style="color:yellow">PascalCase</span>
 - Remote Procedure Calls : <span style="color:red">Prefix: "RPC_"</span> , <span style="color:yellow">PascalCase</span>
-- Functions that perform O(1) get: <span style="color:red">Prefix: "Get/Has"</span> , <span style="color:yellow">PascalCase</span>
-- Functions that perform O(logn) or greater find: <span style="color:red">Prefix: "Find/Contains"</span> , <span style="color:yellow">PascalCase</span>
 - Enums and enum values : <span style="color:yellow">PascalCase</span>
 - Classes : <span style="color:yellow">PascalCase</span>
 - Structs : <span style="color:yellow">PascalCase</span>
