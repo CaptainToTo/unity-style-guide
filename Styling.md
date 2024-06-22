@@ -125,7 +125,7 @@ All names will be in either <span style="color:green">camelCase</span> or <span 
 Variable names should NOT be single characters unless it is obvious what their purpose is, such 
 as using `i` for the iterator in a for-loop.
 
-Assembly definitions should ALWAYS have the same name as the namespace it's encompassing.
+Any assembly definition should ALWAYS have the same name as the namespace it's encompassing.
 
 ## Code Comments
 

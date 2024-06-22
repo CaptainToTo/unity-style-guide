@@ -1,7 +1,7 @@
 # Process
 These rules describe how developers should contribute to the same code base throughout a project.
 
-Process changes wildly based on the size of the team. Very little, if any at all, is needed for a team of 3 developers, but at 5 some sort of process is needed. And, the kind of process needed for a team of 5 is very different from what's needed for a team of say 20. The business environment the team is working in also greatly affects process. This part of the guide is the most loose for this reason.
+Process changes wildly based on the size of the team. Very little, if any at all, is needed for a team of 3 developers, but at 5 some sort of process is needed. And the kind of process needed for a team of 5 is very different from what's needed for a team of say 20. The business environment the team is working in also greatly affects process. This part of the guide is the most loose for this reason.
 
 **Teams must decide their process at the beginning of the project.**
 
@@ -9,7 +9,7 @@ The following are recommendations for a good process, which can be changed or ig
 
 ## Postmortem Periods
 
-Developers can take part in postmortems at regular intervals during development. Focusing on the engineering side of game development, postmortems should be a reflection on how the last set of features were implemented, and how that could affect implementing the next set of features. This postmortem period is encouraged to be used as time to refactor, optimize, and measure the performance of code. This period should avoid lasting more than a week. If any refactors aren't completed by an certain deadline, then work on them should stop in favor of continuing development. Developers should also take this time to interact with artists, designers, and leads to get a better perspective of what features they will be implementing in the future so they can have a better assessment of what needs to be refactored.
+Developers can take part in postmortems at regular intervals during development. Focusing on the engineering side of game development, postmortems should be a reflection on how the last set of features were implemented, and how that could affect implementing the next set of features. This postmortem period is encouraged to be used as time to refactor, optimize, and measure the performance of code. This period should avoid lasting more than a week. If any refactors aren't completed by a set deadline, then work on them should stop in favor of continuing development. Developers should also take this time to interact with artists, designers, and leads to get a better perspective of what features they will be implementing in the future so they can have a better assessment of what needs to be refactored.
 
 ## Version Control
 
@@ -23,7 +23,7 @@ After merging into "bleeding", that branch will be used to make sure the new cha
 
 ## Ownership
 
-Developers can mark files and/or sections of code as theirs. Claiming ownership of code does NOT mean that they are the only ones allowed to edit it, but that they should be the "authority" of that code. To be an authority of that code means that they should:
+Developers can mark files and sections of code as theirs. Claiming ownership of code does NOT mean that they are the only ones allowed to edit it, but that they should be the "authority" of that code. To be an authority of some code means that they should:
 - understand how it works, 
 - how it interfaces with the rest of the codebase, 
 - be able to direct other developers to its end-points, and 
